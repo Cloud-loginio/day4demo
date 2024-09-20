@@ -3,3 +3,7 @@
  git clone ==> clone the repo/floder from remote to working dirwo
  git fetch ==> brings the code from remote to local
  git merge ==> merge the code from dir branch or loacl to working dir
+
+imp qustions are from git is 
+1) git pull vs clone ?
+2) git pull vs git fetch ?
