@@ -1,0 +1,5 @@
+ git push ==> push code to remote/ centrel repo
+ git pull ==> pull code to working dir from remotei
+ git clone ==> clone the repo/floder from remote to working dirwo
+ git fetch ==> brings the code from remote to local
+ git merge ==> merge the code from dir branch or loacl to working dir
